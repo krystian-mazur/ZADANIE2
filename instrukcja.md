@@ -1,4 +1,4 @@
-**Lekcja 1 – Markdown lekki język znaczników**
+# Lekcja 1 – Markdown lekki język znaczników
 
 **Spis treści**
 
@@ -7,7 +7,7 @@ Kod źródłowy dla różnych języków programowania...........................
 Idea pracy:........................................................................................................................................9 
 Git – tworzenie pustego archiwum lokalnego...............................................................................11 Zadania do wykonania na punkty.......................................................................................................21 Zadanie 1 – 2pkt............................................................................................................................21 Zadanie 2 – 4pkt............................................................................................................................21 Zadanie 3 - 4pkt.............................................................................................................................21
 
-**Wstęp**
+## Wstęp
 
 Obecnie powszechnie wykorzystuje się języki ze znacznikami do opisania dodatkowych informacji umieszczanych w plikach tekstowych. Z pośród najbardziej popularnych można wspomnieć o:
 
@@ -83,3 +83,21 @@ Wszystkie te języki znaczników cechują się rozbudowaną i złożoną składn
 * CommonMark,
 *  GitHub Flavored Markdown (GFM),
 *  Markdown Extra.
+
+## Podstawy składni
+
+Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis  podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki  opis w języku polskim.
+
+### Definiowanie nagłówków
+
+W tym celu używamy znaków kratki: #
+Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
+
+![](3.png)
+
+### Definiowanie list
+
+![](4.png)
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
+Listy nienumerowane definiujemy znakami: *,+,-

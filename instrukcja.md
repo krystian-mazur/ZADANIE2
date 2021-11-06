@@ -121,3 +121,9 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 internetowych
 ![](logo.png) – obraz z lokalnych zasobów
 
+### Kod źródłowy dla różnych języków programowania
+![](7.png)
+
+### Tworzenie spisu treści na podstawie nagłówków
+![](8.png)
+
